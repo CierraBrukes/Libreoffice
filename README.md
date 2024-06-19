@@ -1,5 +1,7 @@
 # Libreoffice
 
+<img src="https://github.com/CierraBrukes/Libreoffice/blob/main/lo.png"/>
+
 🔥🔥🔥 **LibreOffice is Open Source Software. Development is open to new talent and new ideas, and our software is tested and used daily by a large and devoted user community**
 
 *The Document Foundation*
@@ -18,4 +20,4 @@
 
 *LibreOffice 24.2 Community also includes many other changes, including improvements in accessibility, change tracking, spell checking, and interoperability with Microsoft’s proprietary file formats. Notably, Impress now allows small caps in text and secured slide show remote control with bluetooth, as well as enhancements to supplied templates*
 
-##The guide is available for immediate download in PDF format, and in HTML format for online reading, as well as in source format (OpenDocument Format). Soon it will be available as printed book by LuLu inc
+The guide is available for immediate download in PDF format, and in HTML format for online reading, as well as in source format (OpenDocument Format). Soon it will be available as printed book by LuLu inc
